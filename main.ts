@@ -1,4 +1,4 @@
-import {App, Editor, MarkdownView, Notice, Plugin} from 'obsidian';
+import {Editor, MarkdownView, Notice, Plugin} from 'obsidian';
 
 const prettier = require("prettier");
 const plugins = [

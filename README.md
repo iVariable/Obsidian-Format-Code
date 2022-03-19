@@ -10,6 +10,8 @@ Currently supports the following languages:
 - GraphQL
 - TypeScript
 
+[Prettier](https://github.com/prettier/prettier) is used under the hood.
+
 ### How to use
 
 ![How to use](assets/obsidian-prettier-demo.gif)
